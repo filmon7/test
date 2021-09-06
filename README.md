@@ -21,3 +21,6 @@ But after fetching my work was not updated so i have to merge it. git merge was
 used but it required switch so i used --stat. my work was updated.
 
 This is the safest way to do things 
+
+Version 4
+I have successfuly pushed teh new change agin. Now let me try to pull instead of fetch + merge. But i have to make sure that everytthing is committed in my loal repo
